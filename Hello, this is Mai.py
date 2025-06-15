@@ -1,1 +1,0 @@
-print("Hello TechLabs HH! This is Mai. :)")
